@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IdeBaranSampel</string>
+    <string name="not_send_clock">ساعت ارسال نشده به سرور</string>
+    <string name="missionUser">ماموریت ها</string>
+    <string name="leave">مرخصی ها</string>
+    <string name="reports">گزارشات</string>
+    <string name="login_exist">ثبت ورود خروج</string>
+    <string name="message">صندوق پیام ها</string>
+    <string name="clockLogin_clockExit">ثبت ساعات ورود و خروج محل کار شما</string>
+    <string name="add_mission">ایجاد ماموریت</string>
+    <string name="data">15 دی 1400</string>
+
+</resources>
